@@ -1,9 +1,6 @@
 <h1 align="center">Hi there! I'm Egor 👋</h1>
 <p align="center">Beginner Backend Developer | .NET & C#</p>
 
-## 🧑‍💻 About me
-I develop web-applications with focusing on Backend-part. In the nearest future, I want to learn how to log and catch errors that inflict during my application execution. And after that - learn how to work with REST Api.
-
 ## 🛠️ Technologys
 **Backend:** C#, ASP.NET Core MVC, Entity Framework Core  
 **Desktop:** WPF, MVVM, XAML  
