@@ -1,6 +1,9 @@
 <h1 align="center">Hi there! I'm Egor 👋</h1>
 <p align="center">Beginner Backend Developer | .NET & C#</p>
 
+## 👨‍💻 A little about me
+I am interested in backend development in C#/.NET (ASP.NET Core, MVC) and want to develop in this area.
+  
 ## 🛠️ Technologys
 **Backend:** C#, ASP.NET Core MVC, Entity Framework Core  
 **Desktop:** WPF, MVVM, XAML  
