@@ -2,7 +2,7 @@
 <p align="center">Beginner Backend Developer | .NET & C#</p>
 
 ## 👨‍💻 A little about me
-I am interested in backend development in C#/.NET (ASP.NET Core, MVC) and want to develop in this area, constantly improving my skills.
+I am interested in backend development in C#/.NET (ASP.NET Core) and want to develop in this area, constantly improving my skills.
   
 ## 🛠️ Technologys
 **Backend:** C#, ASP.NET Core MVC, Entity Framework Core  
