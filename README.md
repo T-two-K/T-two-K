@@ -8,7 +8,7 @@ I am interested in backend development in C#/.NET (ASP.NET Core) and want to dev
 **Backend:** C#, ASP.NET Core, Entity Framework Core    
 **Fontend:** WPF, XAML, JavaScript, HTML, CSS  
 **Databases:** MySQL  
-**Pattenrs:** MVVM, MVC, DTO, DI, Repository pattern  
+**Pattenrs:** MVVM, DTO, DI, Repository pattern  
 **Tools:** Visual Studio, VS Code, Git Bash, Postman (API testing), Draw.io (diagramms)
 
 ## 📫 How to reach me
