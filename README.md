@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Egor 👋</h1>
-<p align="center">Beginner Backend Developer | .NET & C#</p>
+<p align="center">Beginner full stack developer | .NET & C#</p>
 
 ## 👨‍💻 A little about me
-I am interested in backend development in C#/.NET (ASP.NET Core) and want to develop in this area, constantly improving my skills.
+I am interested in backend development in C#/.NET (ASP.NET Core) but i also want to learn node.js and i will do that in the near future.
   
 ## 🛠️ Technologys
 **Backend:** C#, ASP.NET Core, Entity Framework Core    
