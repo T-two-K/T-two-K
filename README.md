@@ -4,9 +4,9 @@
 ## 👨‍💻 A little about me
 I am interested in backend development in C#/.NET (ASP.NET Core) but i also want to learn node.js and i will do that in the near future.
   
-## 🛠️ Technologys
+## 🛠️ Technologies
 **Backend:** C#, ASP.NET Core, Entity Framework Core    
-**Fontend:** WPF, XAML, JavaScript, HTML, CSS  
+**Frontend:** WPF, XAML, JavaScript, HTML, CSS  
 **Databases:** MySQL  
 **Pattenrs:** MVVM, DTO, DI, Repository pattern  
 **Tools:** Visual Studio, VS Code, Git Bash, Postman (API testing), Draw.io (diagramms)
