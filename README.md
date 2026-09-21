@@ -2,7 +2,7 @@
 <p align="center">Beginner full stack developer | .NET & C#</p>
 
 ## 👨‍💻 A little about me
-I am interested in backend development in C#/.NET (ASP.NET Core) but i also want to learn node.js and i will do that in the near future.
+I am interested in backend development in C#/.NET (ASP.NET Core) and i also want to learn React and i will do that in the near future.
   
 ## 🛠️ Technologies
 **Backend:** C#, ASP.NET Core, Entity Framework Core    
