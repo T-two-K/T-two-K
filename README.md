@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Egor 👋</h1>
-<p align="center">Beginner full stack developer | .NET & C#</p>
+<p align="center">Beginner full stack developer | .NET & React</p>
 
 ## 👨‍💻 A little about me
 I work on backend development using C#/.NET (ASP.NET Core minimal API). I also want to learn React and I'll learn it in the near future.
